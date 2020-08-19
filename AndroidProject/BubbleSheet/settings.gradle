@@ -1,0 +1,2 @@
+rootProject.name='BubbleSheet'
+include ':app'
